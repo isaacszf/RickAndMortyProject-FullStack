@@ -1,0 +1,6 @@
+[submodule "rick-and-morty-strapi-api"]
+	path = rick-and-morty-strapi-api
+	url = https://github.com/IkeSZ/rick-and-morty-strapi-api
+[submodule "rick-and-morty-web"]
+	path = rick-and-morty-web
+	url = https://github.com/IkeSZ/rick-and-morty-web
