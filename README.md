@@ -9,7 +9,7 @@ Here are some gifs that show how the project works:
 
 <div align="center">
   <img src=".github/web-project.gif" alt="Demo on a 1920x1080 screen" />
-  <img src=".github/web-mobile-project.gif" height="500" width="350" alt="Demo on a mobile device" />
+  <img src=".github/web-mobile-project.gif" alt="Demo on a mobile device" />
 </div>
 
 ---
