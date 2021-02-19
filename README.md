@@ -8,7 +8,7 @@ This project was inspired by [The Rick and Morty API](https://github.com/afuh/ri
 Here are some gifs that show how the project works:
 
 <div align="center">
-  <img src=".github/web-project.gif" height="1080" width="1920" alt="Demo on a 1920x1080 screen" />
+  <img src=".github/web-project.gif" height="600" width="600" alt="Demo on a 1920x1080 screen" />
   <img src=".github/web-mobile-project.gif" height="500" width="350" alt="Demo on a mobile device" />
 </div>
 
