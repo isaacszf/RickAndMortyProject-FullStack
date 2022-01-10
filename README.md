@@ -41,5 +41,3 @@ The technologies that have been used are:
 - PostgreSQL ✔️
 
 ---
-
-Made by IkeSZ 🙄 - [My Linktree](https://linktr.ee/ikesz)
